@@ -1,1 +1,3 @@
 # QuanLyBanHang
+
+ENTITY FRAMEWORK
